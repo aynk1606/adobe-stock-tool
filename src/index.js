@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import './tailwind.css'; // <--- এই লাইনটি যোগ করা হয়েছে
+import './tailwind.css'; 
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
